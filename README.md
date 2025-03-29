@@ -1,12 +1,13 @@
-# Soundness_Wallet Registration
-# Soundness Testnet Registration
+# Soundness Testnet Wallet Generation
 ## Link:
 ## https://soundness.xyz/
 ## ➖ Submit your email
 
 # Generate Your Key here
 ```bash
-sudo apt update && sudo apt upgrade -y
+sudo apt update
+sudo apt upgrade
+y
 ```
 
 ```bash
