@@ -3,13 +3,17 @@
 ## https://soundness.xyz/
 ## ➖ Submit your email
 
-# Generate Your Key here
+# Setup your codespace
 ```bash
 sudo apt update
+```
+```bash
 sudo apt upgrade
+```
+```bash
 y
 ```
-
+# Install Soundness PubKey (wallet)
 ```bash
 curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
 ```
@@ -34,7 +38,7 @@ soundness-cli export-key --name my-key
 ```
 ## ➖ Save your Phrase and Pub-Key
 ## ➖ Join Discord (https://discord.gg/NbStGdsh)
-## ➖ Go to #Testnet-access > Submit your Pub-Key
+## ➖ Go to channel #Testnet-access > Submit your Pub-Key
 ##✅ Done!
 
 ## Details: 
